@@ -1,26 +1,26 @@
 {
-  "nombre": "Tu Nombre Completo",
-  "email": "tuemail@ejemplo.com",
-  "telefonoCompleto": "+34693500740",
-  "telefonoMostrado": "+34 693 500 740",
-  "empresa": "Tu Empresa",
-  "puesto": "Tu Puesto/Título",
-  "descripcion": "Descripción profesional breve",
-  "web": "https://tudominio.com",
-  "ubicacion": "Zaragoza , España",
+  "nombre": "Pilar Fanlo Bellido",
+  "email": "pilarfanlob@gmail.com",
+  "telefonoCompleto": "+34663427697",
+  "telefonoMostrado": "+34 663 427 697",
+  "empresa": "",
+  "puesto": "",
+  "descripcion": "Estudiante de Marketing y Publicidad",
+  "web": "",
+  "ubicacion": "Zaragoza, España",
   "redes": {
-    "linkedin": "https://linkedin.com/in/tuusuario",
-    "github": "https://github.com/tuusuario",
-    "instagram": "@tuusuario"
+    "linkedin": "www.linkedin.com/in/pilar-fanlo-bellido-9179a3365",
+    "github": "",
+    "instagram": ""
   },
   "empresa_datos": {
-    "nombre": "Nombre de la Empresa",
-    "email": "empresa@ejemplo.com",
-    "web": "https://empresa.com"
+    "nombre": "",
+    "email": "",
+    "web": ""
   },
   "diseno": {
-    "colorPrincipal": "#d4af37",
-    "colorFondo": "#1a1a1a",
+    "colorPrincipal": "#d58cfc",
+    "colorFondo": "#1a1a1f",
     "colorAcento": "#764ba2"
   }
 }
